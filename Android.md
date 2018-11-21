@@ -79,6 +79,7 @@
 + [Android Arsenal - Android Libraries Directory](https://android-arsenal.com/)
 + [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
 + [Android - Vocabulary Glossary](https://developers.google.com/android/for-all/vocab-words/?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
++ [Android - Material Design](https://material.io/)
 
 ## 9. Newsletter
 + [Android Weekly](https://androidweekly.net/)
