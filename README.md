@@ -162,6 +162,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
 -  [Caster.io](https://caster.io) :heavy_dollar_sign:
 -  [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
+-  [Android - Vocabulary Glossary](https://developers.google.com/android/for-all/vocab-words/?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
 -  [Android - Material Design](https://material.io/)
 
 
