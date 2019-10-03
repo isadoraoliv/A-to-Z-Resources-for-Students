@@ -158,9 +158,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) :heavy_dollar_sign:
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
--  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
 -  [Codelabs](https://codelabs.developers.google.com/)
--  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
 -  [Caster.io](https://caster.io) :heavy_dollar_sign:
 -  [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
 -  [Android - Vocabulary Glossary](https://developers.google.com/android/for-all/vocab-words/?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
@@ -446,7 +444,17 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
----
+## 1.20 Flutter Development
+
+-  [Flutter Documentation](https://flutter.dev/docs)
+-  [Flutter Material Design](https://material.io/develop/flutter/)
+-  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
+-  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
+-  [Flutter Comunity](https://flutter.dev/community)
+-  [Flutter in Medium](https://medium.com/flutter-community)
+-  [Free courses| Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
+-  [Introducing The Boring Show!| Google Developers](https://www.youtube.com/watch?v=vqPG1tU6-c0&list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)
+-  [Introducing Widget of the Week!| Google](https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
 
 
 # 2. Hackathons and Events
