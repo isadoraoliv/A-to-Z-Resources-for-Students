@@ -589,6 +589,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |2| [CodeAgon- Codenation Hiring Challenge](https://www.hackerrank.com/codeagon)  | Online |
 |3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
 |4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
+|4| [Pramp Mock Interviews e Coding](https://www.pramp.com/#/)  | Online |
 
 ---
 
