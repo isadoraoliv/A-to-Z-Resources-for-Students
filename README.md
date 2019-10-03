@@ -43,6 +43,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Events](#24-events-ticket)
      - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
      - [Hiring Challenges](#26-hiring-challenges)
+     - [Local Hack Day](#2-hackathons-and-events)
 
 3.  [Student Benefits and Programs](#3-student-benefits-and-programs-fire)
      - [Campus Ambassador Programs](#campus-ambassador-programs-v)
@@ -497,6 +498,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |40 | [UltraHack](https://ultrahack.org/)|Regional and Global | Yes| - |  - |
 |41 | [Y Combinator Hacks]() | USA | - | - | - |
 |42 | [YHack](https://www.yhack.org/) | Onsite (Yale University) | Yes | Nov End | - |
+|43 | [Local Hack Day](https://localhackday.mlh.io/) | Choose your location | - | - | - |
 ----------------------------------------------------------
 
 ##  2.2 Competitions :trophy:
