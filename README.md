@@ -462,6 +462,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 
 # 2. Hackathons and Events
+-[MLH - Major League Hacking](https://mlh.io)
 
 ## 2.1 Top Global Hackathons :globe_with_meridians:
 
